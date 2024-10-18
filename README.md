@@ -1,2 +1,1 @@
-# 30-Days-Of-Code
-This Repository Is related to Solution Code for Hacker Rank 30 Days Of Code
+Welcome to my solutions for HackerRank's 30 Days of Code challenge! This repository showcases my journey through a month of coding challenges designed to enhance my problem-solving skills and deepen my understanding of algorithms and data structures. As an IT enthusiast, I believe that consistent practice is key to mastering coding concepts. Join me as I tackle each challenge, share insights, and continuously improve my coding abilities. Happy coding!
